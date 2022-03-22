@@ -3,11 +3,11 @@ title: "My Resumé"
 ---
 
 Raven Mico Carencia 
-
+=====
 carencrm@myumanitoba.ca
 
 (204) 299-1826
-=====
+
 
 ## Education
 
@@ -26,6 +26,7 @@ __Communication__
 
 •	Experienced with active listening and two-way communication with team leaders and other co-workers for a positive and more efficient work environment.
 
+&nbsp;
 
 __Computer Science__
 
@@ -37,17 +38,21 @@ __Computer Science__
 
 
 
+
 ## WORK & VOLUNTEER EXPERIENCE
 
 __Online Receptionist, Help Desk Agent__ (part-time)         December 2018 - present    
 
 RAPID RTC – _a Keyloop company_, Winnipeg, MB
 
+&nbsp;
+
 
 __Web Developer, Director of Art__ (volunteer, part-time)	       May 2019 – May 2020		
 
 MISA (Management Information Systems Association) Asper, Winnipeg, MB	
 
+&nbsp;
 
 __Service Crew__ (part-time)          August 2014 – December 2018	
 
