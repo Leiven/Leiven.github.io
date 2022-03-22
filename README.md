@@ -1,95 +1,85 @@
-# Leiven.github.io
+# How to Host and Format a Resume
 
-# Project Title
+A guide on how to host and format a resumé using [Markdown](https://www.markdownguide.org/cheat-sheet/) and [GitHub pages](https://pages.github.com/).
 
-One Paragraph of the project description
+# Getting Started
 
-Initially appeared on
-[gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). But the page cannot open anymore so that is why I have moved it here.
+## Prerequisites
+* A [GitHub](https://github.com/) account and a working repository.
+* [Jekyll](https://jekyllrb.com/)
+* [Markdown](https://www.markdownguide.org/cheat-sheet/) formatting knowledge.
 
-## Getting Started
+## Instructions
 
-These instructions will give you a copy of the project up and running on
-your local machine for development and testing purposes. See deployment
-for notes on deploying the project on a live system.
+These instructions will guide you on how to create and host your own Markdown formatted resumé on GitHub Pages.
 
-### Prerequisites
+    Once you have logged in to GitHub:
 
-Requirements for the software and other tools to build, test and push 
-- [Example 1](https://www.example.com)
-- [Example 2](https://www.example.com)
+1. **Create** a [__new public__ repository](https://github.com/new).
+2. **Name** the new repository as _username_.github.io where *username* is your GitHub username.
+3. After the creation of the repository, press the "**Add file**" drop down 
+4. Click "**Create new file**":
 
-### Installing
+![img](https://i.imgur.com/95sauQi.png)
 
-A step by step series of examples that tell you how to get a development
-environment running
+> You will be sent to a new page after clicking the Create new file option.
 
-Say what the step will be
+5. Above the big text box, **name** the new file we created as **index.md** 
 
-    Give the example
+6. **Click** the **Commit changes** to save the file on our repository.
 
-And repeat
+> This will be the homepage of our GitHub page.
 
-    until finished
+7. Now, we can create our resumé by typing it down on the *index.md* file that we have just created with the appropriate [Markdown](https://www.markdownguide.org/cheat-sheet/) formatting.
 
-End with an example of getting some data out of the system or using it
-for a little demo
+> (optional) If we want to add Jekyll styles to our GitHub page that hosts our resumé, proceed with the next steps:
 
-## Running the tests
+8. **Add** another file by using **Create new file**.
 
-Explain how to run the automated tests for this system
+9. **Name** the new file as **_config.yml**.
+> This file will contain the theme that we would prefer to use on our GitHub page.
 
-### Sample Tests
+10. **Click** the *_config.yml* file that we just created.
 
-Explain what these tests test and why
+11. On the main page, **click** the pencil icon to edit the file we just created.
 
-    Give an example
+![img](https://i.imgur.com/d0vBkLk.png)
 
-### Style test
+12. **Add** the line "theme: " and then put the preferred style that we prefer. 
 
-Checks if the best practices and the right coding style has been used.
+> For this guide, we can just **add** the following line: "theme: jekyll-theme-slate"
 
-    Give an example
+13. After adding our preferred style, **click** the **Commit changes** to save and update the file on our repository.
 
-## Deployment
+14. **Done!** We can now view our hosted resumé at *username*.github.io
 
-Add additional notes to deploy this on a live system
+![img](https://github.com/Leiven/Leiven.github.io/blob/main/resume.gif?raw=true)
 
-## Built With
+## More Resources
+* [Modern Technical Writing: An Introduction to Software Documentation Kindle Edition](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
-  - [Contributor Covenant](https://www.contributor-covenant.org/) - Used
-    for the Code of Conduct
-  - [Creative Commons](https://creativecommons.org/) - Used to choose
-    the license
+* [A handy guide](https://www.markdownguide.org/cheat-sheet/) for Markdown formatting.
 
-## Contributing
+* [A Jekyll guide](https://jekyllrb.com/) if you want fancier themes and more customized webpage designs.
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
-of conduct, and the process for submitting pull requests to us.
+## Authors and Acknowledgements
 
-## Versioning
+**Author**: Raven Mico Carencia
 
-We use [Semantic Versioning](http://semver.org/) for versioning. For the versions
-available, see the [tags on this
-repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
+**Special Thanks (Groupmates)**:
 
-## Authors
+* Kyle Calinisan
 
-  - **Billie Thompson** - *Provided README Template* -
-    [PurpleBooth](https://github.com/PurpleBooth)
+* Scott Jodoin
 
-See also the list of
-[contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
-who participated in this project.
+* thzidaan
 
-## License
+* H.Q.
 
-This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
-Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
-details
 
-## Acknowledgments
 
-  - Hat tip to anyone whose code is used
-  - Inspiration
-  - etc
+
+## FAQs
+* Why is Markdown better than a word processor?
+
+* Why is my resume not showing up?
