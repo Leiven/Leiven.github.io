@@ -76,11 +76,9 @@ These instructions will guide you on how to create and host your own Markdown fo
 
 * Scott Jodoin
 
-* thzidaan
+* Tahmidul Zidaan
 
-* H.Q.
-
-
+* Hao Qin
 
 
 ## FAQs
