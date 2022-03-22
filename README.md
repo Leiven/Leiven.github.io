@@ -34,7 +34,7 @@ These instructions will guide you on how to create and host your own Markdown fo
 
 > Now, with our resume in Markdown, 
 
-7. Copy and paste our resume to the ``index.md`` file that we have just created with the appropriate [Markdown](https://www.markdownguide.org/cheat-sheet/) formatting.
+7. **Copy and paste** our resume to the ``index.md`` file that we have just created with the appropriate [Markdown](https://www.markdownguide.org/cheat-sheet/) formatting.
 
 > As mentioned by [Andrew Etter](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) on their book, Markdown is a wonderful and widely used markup language in the world. Markdown is popular and is also used by simple web-based system, such as GitHub pages. Learning Markdown syntax would be very beneficial.
 
