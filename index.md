@@ -41,20 +41,26 @@ __Computer Science__
 
 ## WORK & VOLUNTEER EXPERIENCE
 
-__Online Receptionist, Help Desk Agent__ (part-time)         December 2018 - present    
+__Online Receptionist, Help Desk Agent__ (part-time)         
+
+December 2018 - present    
 
 RAPID RTC – _a Keyloop company_, Winnipeg, MB
 
 &nbsp;
 
 
-__Web Developer, Director of Art__ (volunteer, part-time)	       May 2019 – May 2020		
+__Web Developer, Director of Art__ (volunteer, part-time)	       
+
+May 2019 – May 2020		
 
 MISA (Management Information Systems Association) Asper, Winnipeg, MB	
 
 &nbsp;
 
-__Service Crew__ (part-time)          August 2014 – December 2018	
+__Service Crew__ (part-time)          
+
+August 2014 – December 2018	
 
 The Wendy’s Company, Winnipeg, MB
 
