@@ -6,8 +6,8 @@ A guide on how to host and format a resume using [Markdown](https://www.markdown
 
 ## Prerequisites
 * A [GitHub](https://github.com/) account and a working repository.
-* [Jekyll](https://jekyllrb.com/)
-* [Markdown](https://www.markdownguide.org/cheat-sheet/) formatting knowledge.
+* Your resume in Markdown.
+* A [Markdown](https://www.markdownguide.org/cheat-sheet/) editor.
 
 ## Instructions
 
