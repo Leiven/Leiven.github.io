@@ -1,6 +1,6 @@
 # How to Host and Format a Resume
 
-A guide on how to host and format a resumé using [Markdown](https://www.markdownguide.org/cheat-sheet/) and [GitHub pages](https://pages.github.com/).
+A guide on how to host and format a resume using [Markdown](https://www.markdownguide.org/cheat-sheet/) and [GitHub pages](https://pages.github.com/).
 
 # Getting Started
 
@@ -11,7 +11,7 @@ A guide on how to host and format a resumé using [Markdown](https://www.markdow
 
 ## Instructions
 
-These instructions will guide you on how to create and host your own Markdown formatted resumé on GitHub Pages.
+These instructions will guide you on how to create and host your own Markdown formatted resume on GitHub Pages.
 
     Once you have logged in to GitHub:
 
@@ -30,9 +30,11 @@ These instructions will guide you on how to create and host your own Markdown fo
 
 > This will be the homepage of our GitHub page.
 
-7. Now, we can create our resumé by typing it down on the *index.md* file that we have just created with the appropriate [Markdown](https://www.markdownguide.org/cheat-sheet/) formatting.
+7. Now, we can create our resume by typing it down on the *index.md* file that we have just created with the appropriate [Markdown](https://www.markdownguide.org/cheat-sheet/) formatting.
 
-> (optional) If we want to add Jekyll styles to our GitHub page that hosts our resumé, proceed with the next steps:
+> As mentioned by [Andrew Etter](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) on his book, Markdown is a wonderful and widely used markup language in the world. Markdown is popular and is also used by simple web-based system, such as GitHub pages. Learning Markdown syntax would be very beneficial.
+
+> If we want to add Jekyll styles to our GitHub page that hosts our resume, proceed with the next steps:
 
 8. **Add** another file by using **Create new file**.
 
@@ -49,9 +51,11 @@ These instructions will guide you on how to create and host your own Markdown fo
 
 > For this guide, we can just **add** the following line: "theme: jekyll-theme-slate"
 
+> As [Andrew Etter](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) mentioned in his book, many static site generators exist and Jekyll is one of them. We can use Jekyll to get various designs that we prefer for our static website that will have our resumé.
+
 13. After adding our preferred style, **click** the **Commit changes** to save and update the file on our repository.
 
-14. **Done!** We can now view our hosted resumé at *username*.github.io
+14. **Done!** We can now view our hosted resume at *username*.github.io
 
 ![img](https://github.com/Leiven/Leiven.github.io/blob/main/resume.gif?raw=true)
 
@@ -82,4 +86,11 @@ These instructions will guide you on how to create and host your own Markdown fo
 ## FAQs
 * Why is Markdown better than a word processor?
 
+> [Markdown](https://daringfireball.net/projects/markdown/) is very efficient in that it converts plain text formatting into HTML to generate different and diverse content. It makes our writing style transferrable between web pages without having to worry about the processing that a word processor does when switching platforms.
+
 * Why is my resume not showing up?
+
+> * Make sure that your resume is properly formatted in the `index.md` file in the repository.
+> * Make sure that your *username*.github.io repository is set to public.
+> * There could be a service failure at GitHub Pages. We can check for GitHub status [here](https://www.githubstatus.com/.).
+> * There may be delay when GitHub pages update (this usually takes up to 5 minutes).
