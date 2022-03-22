@@ -74,7 +74,7 @@ These instructions will guide you on how to create and host your own Markdown fo
 
 **Author**: [Raven Mico Carencia](https://github.com/Leiven/)
 
-**Special Thanks (groupmates)**:
+**Special Thanks**:
 
 * [Kyle Calinisan](https://github.com/kyl-dc)
 
@@ -83,6 +83,8 @@ These instructions will guide you on how to create and host your own Markdown fo
 * [Tahmidul Zidaan](https://github.com/thzidaan)
 
 * [Hao Qin](https://github.com/qinh3uofm)
+
+* [PurpleBooth](https://github.com/PurpleBooth/) for the readme template.
 
 
 ## FAQs
