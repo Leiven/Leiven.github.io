@@ -3,7 +3,9 @@ title: "My Resumé"
 ---
 
 Raven Mico Carencia 
+
 carencrm@myumanitoba.ca
+
 (204) 299-1826
 =====
 
