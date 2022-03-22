@@ -12,7 +12,9 @@ carencrm@myumanitoba.ca
 ## Education
 
 __Bachelor of Science – Computer Science__ 
+
 Expected date of completion: May 2022
+
 University of Manitoba, Winnipeg, MB
 
 ## SKILLS
