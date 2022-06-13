@@ -19,13 +19,13 @@ June 2022
 ## SKILLS
 __Communication__
 
-•	Presented scheduling tool functionality to company executives as part of a team project.
-
 •	Encouraged and maintained a positive working atmosphere with work teammates.
 
 •	Experienced with active listening and two-way communication with team leaders and other co-workers for a positive and more efficient work environment.
 
 • Thrives in a fast paced and innovative environment and stays up-to-date with different work environment updates relayed by team leaders.
+
+•	Confident in team project presentations: Presented scheduling tool functionality to company executives as part of a team project.
 
 &nbsp;
 
