@@ -1,21 +1,20 @@
 ---
-title: "My Resumé"
+title: "Resumé of Raven Carencia"
 ---
 
 Raven Mico Carencia 
 =====
-carencrm@myumanitoba.ca
-
-(204) 123-4567
+raven.carencia@gmail.com
 
 
 ## Education
 
 __Bachelor of Science – Computer Science__ 
 
-Expected date of completion: May 2022
 
 *University of Manitoba*, Winnipeg, MB
+
+June 2022
 
 ## SKILLS
 __Communication__
@@ -26,6 +25,8 @@ __Communication__
 
 •	Experienced with active listening and two-way communication with team leaders and other co-workers for a positive and more efficient work environment.
 
+• Thrives in a fast paced and innovative environment and stays up-to-date with different work environment updates relayed by team leaders.
+
 &nbsp;
 
 __Computer Science__
@@ -35,6 +36,7 @@ __Computer Science__
 •	Knowledge in multiple functional, declarative, and object-oriented programming languages such as _C, C++, C#, Perl, PHP, Python, Ruby, Java, JavaScript, and SQL_.
 
 •	Knowledge in database concepts such as schema design, transaction logs, etc., as well as database implementation details such as compression algorithms.
+
 
 
 
